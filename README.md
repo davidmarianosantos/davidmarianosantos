@@ -30,6 +30,23 @@ Hoje atuo com SQL, sistemas LIMS e desenvolvimento de módulos internos na LabWa
 <table>
 <tr><td width="100%">
 
+#### 🔍 [Hawkeye — Detecção de Defeitos em PCB](https://github.com/davidmarianosantos/hawkeye-pcb-defect-detection)
+
+Detecção de 4 classes de defeito em placas de circuito impresso com **YOLOv8** e transfer learning. **mAP50 de 92,9%** no conjunto de teste (recall 90,0%, precisão 91,6%).
+
+Inclui experimentos controlados de underfitting e overfitting e um **teste de robustez fora da distribuição**: ao deslocar a matiz das placas de verde para vermelho, o modelo sobretreinado caiu de 93% para **3% de mAP50** — evidência de que aprendeu cor como atalho, não a geometria do defeito.
+
+Notebook com saídas preservadas, pesos versionados e relatório técnico de 15 páginas.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+</td></tr>
+<tr><td>
+
 #### 🧭 [TuristAí](https://github.com/davidmarianosantos/TuristAi) &nbsp;·&nbsp; [🌐 demo](https://turistai.vercel.app)
 
 Assistente turístico multilíngue **(PT / ES / EN)** construído em **2 dias** no Hack Turismo Costa do Cacau — SEBRAE / NIT-UESC.
@@ -60,7 +77,7 @@ Aplicação desktop para **análise qualitativa de entrevistas**, com pipeline d
 
 #### 🪟 [Clarivida — Corte de Chapa 2D](https://github.com/CibelleSousa/Clarivida-Vidros)
 
-Solução para o **problema de corte de chapa 2D** com busca heurística **A\***, heurística híbrida de custo e rotação de peças, aplicada à redução de desperdício de material.
+Modelagem do **problema de corte de chapa 2D** em espaço de estados e resolução com busca **A\***, usando heurística admissível composta pelo máximo entre duas estimativas (área restante e altura da maior peça), com rotação de peças como ação.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
