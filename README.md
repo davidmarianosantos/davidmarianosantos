@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santos-141227175/)
 [![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.drinks@hotmail.com)
-[![Localização](https://img.shields.io/badge/Itabuna,_BA-4C9A2A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -59,10 +58,9 @@ Aplicação desktop para **análise qualitativa de entrevistas**, com pipeline d
 </td></tr>
 <tr><td>
 
-#### 🪟 [Clarivida — Corte de Chapa 2D](https://github.com/CibelleSousa/Clarivida-Vidros) &nbsp;·&nbsp; *em equipe*
+#### 🪟 [Clarivida — Corte de Chapa 2D](https://github.com/CibelleSousa/Clarivida-Vidros)
 
 Solução para o **problema de corte de chapa 2D** com busca heurística **A\***, heurística híbrida de custo e rotação de peças, aplicada à redução de desperdício de material.
-<sub>Disciplina de Inteligência Artificial — UESC</sub>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -77,10 +75,9 @@ Solução para o **problema de corte de chapa 2D** com busca heurística **A\***
 <table>
 <tr><td width="100%">
 
-#### 🧵 [Processamento Paralelo](https://github.com/omniberto/Processamento-Paralelo) &nbsp;·&nbsp; *em equipe*
+#### 🧵 [Processamento Paralelo](https://github.com/omniberto/Processamento-Paralelo)
 
 Filtro gaussiano em processamento de imagens implementado com **três abordagens de paralelismo**: OpenMP (threads), MPI (processos) e CUDA (GPU).
-<sub>Disciplina de Processamento Paralelo — UESC</sub>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
@@ -90,10 +87,9 @@ Filtro gaussiano em processamento de imagens implementado com **três abordagens
 </td></tr>
 <tr><td>
 
-#### 🎮 [Jogo da Velha Multiplayer](https://github.com/CibelleSousa/Jogo-da-Velha) &nbsp;·&nbsp; *em equipe*
+#### 🎮 [Jogo da Velha Multiplayer](https://github.com/CibelleSousa/Jogo-da-Velha)
 
 Jogo multiplayer em arquitetura **cliente-servidor**, com protocolo de aplicação próprio sobre TCP, concorrência por threads e interface gráfica.
-<sub>Disciplina de Redes de Computadores — UESC</sub>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat-square&logo=python&logoColor=white)
@@ -107,7 +103,7 @@ Jogo multiplayer em arquitetura **cliente-servidor**, com protocolo de aplicaç�
 <table>
 <tr><td width="100%">
 
-#### 🌦️ [Estação — Dados Climáticos](https://github.com/JotaPablo/Estacao) &nbsp;·&nbsp; *em equipe*
+#### 🌦️ [Estação — Dados Climáticos](https://github.com/JotaPablo/Estacao)
 
 API para coleta e disponibilização de dados de **estações meteorológicas**, com suporte geoespacial e consultas por período e localização.
 
