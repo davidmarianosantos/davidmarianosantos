@@ -2,7 +2,7 @@
 
 # David Júnio Mariano dos Santos
 
-### 🤖 IA aplicada &nbsp;·&nbsp; 💻 Engenharia de Software
+### 💻 Engenharia de Software &nbsp;·&nbsp; 🗄️ Dados &nbsp;·&nbsp; 🤖 IA aplicada
 
 **Ciência da Computação @ UESC** &nbsp;|&nbsp; **Estagiário de Service Delivery @ LabWare**
 
@@ -17,9 +17,9 @@
 
 ## 👋 Sobre
 
-Construo sistemas que usam IA de forma aplicada — de integração de LLMs a processamento de linguagem natural e algoritmos de busca.
+Trabalho com desenvolvimento de software, dados e inteligência artificial aplicada.
 
-Hoje atuo com SQL, sistemas LIMS e desenvolvimento de módulos internos na LabWare, e estudo Ciência da Computação na UESC.
+Na LabWare, atuo com SQL, sistemas LIMS e construção de módulos internos em ambiente corporativo regulado, com exigência de qualidade e rastreabilidade de dados. Antes disso, desenvolvi APIs em Python e Django REST, fluxos de ETL e processamento de logs para diagnóstico preditivo de falhas. Em IA aplicada, trabalho com visão computacional, processamento de linguagem natural e integração de LLMs.
 
 ---
 
@@ -164,6 +164,7 @@ API para coleta e disponibilização de dados de **estações meteorológicas**,
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
