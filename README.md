@@ -19,7 +19,7 @@
 
 Trabalho com desenvolvimento de software, dados e inteligência artificial aplicada.
 
-Na LabWare, atuo com SQL, sistemas LIMS e construção de módulos internos em ambiente corporativo regulado, com exigência de qualidade e rastreabilidade de dados. Antes disso, desenvolvi APIs em Python e Django REST, fluxos de ETL e processamento de logs para diagnóstico preditivo de falhas. Em IA aplicada, trabalho com visão computacional, processamento de linguagem natural e integração de LLMs.
+Na LabWare, atuo com SQL, sistemas LIMS e construção de módulos internos, incluindo um fluxo de aprovação em produção que substituiu um processo informal entre áreas. Antes disso, desenvolvi APIs em Python e Django REST, fluxos de ETL e processamento de logs para diagnóstico preditivo de falhas. Em IA aplicada, trabalho com visão computacional, processamento de linguagem natural e integração de LLMs.
 
 ---
 
@@ -62,14 +62,17 @@ Integração de LLM com *function calling* sobre 5 ferramentas, triagem automati
 </td></tr>
 <tr><td>
 
-#### 📊 AnalyText &nbsp;·&nbsp; *repositório em preparação*
+#### 📊 [AnalyText](https://github.com/davidmarianosantos/AnalyText)
 
-Aplicação desktop para **análise qualitativa de entrevistas**, com pipeline de NLP, detecção de padrões e geração de grafos de similitude para identificar temas e relações recorrentes.
+Aplicação desktop para **análise qualitativa de entrevistas**, construída para apoiar uma pesquisa etnográfica em educação — o usuário é pesquisador, não desenvolvedor.
+
+Pipeline de NLP com lematização e **anonimização por NER**, fusão de sinônimos por vetores semânticos e agrupamento em campos de significado por **clustering híbrido de embeddings e co-ocorrência**. O grafo de similitude é construído sobre a árvore geradora máxima de co-ocorrência, com exploração interativa.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=flat-square)
+![D3](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 </td></tr>
